@@ -1,0 +1,46 @@
+Terms of Service for Positive Bot
+
+Last Updated: [March 2025]
+
+1. Introduction
+Welcome to Positive Bot! These Terms of Service (“ToS”) outline the rules and regulations for using the bot in your Discord server. By adding and using Positive Bot, you agree to comply with these terms.
+
+2. Usage Guidelines
+- You must comply with Discord’s Terms of Service and Community Guidelines.
+- You may not use the bot for illegal, harmful, or malicious activities.
+- Spamming commands or attempting to exploit the bot is prohibited.
+
+3. Bot Functionality
+- Positive Bot provides motivational messages and related features.
+- We may modify or remove features at any time without notice.
+- The bot is provided "as is" without guarantees of uptime or performance.
+
+4. User Responsibilities
+- You are responsible for managing bot permissions in your server.
+- If you invite the bot, you agree to its access to necessary Discord data.
+- You must not attempt to reverse-engineer, modify, or disrupt the bot’s functionality.
+
+5. Data Collection & Privacy
+- We collect minimal data necessary for the bot’s operation. See our Privacy Policy for details.
+- We do not sell or share your data with third parties.
+- You may request data removal by contacting us.
+
+6. Service Availability & Termination
+- We reserve the right to update, suspend, or terminate the bot’s services at any time.
+- Users violating these terms may have their access revoked.
+- Discord servers engaging in harmful behavior may be blacklisted.
+
+7. Disclaimer & Liability
+- Positive Bot is provided "as is" without warranties.
+- We are not responsible for any damages, loss of data, or issues caused by using the bot.
+- We are not affiliated with Discord Inc.
+
+8. Changes to These Terms
+- We may update these ToS as needed.
+- Continued use of the bot after updates means you accept the new terms.
+
+9. Contact Information
+For any questions, reach out to [Your Contact Email or Discord Server Link].
+
+By using Positive Bot, you agree to these Terms of Service.
+
