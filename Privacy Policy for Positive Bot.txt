@@ -1,0 +1,48 @@
+Privacy Policy for Positive Bot
+
+Last Updated: [March 2025]
+
+1. Introduction
+Welcome to Positive Bot! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our Discord bot (Positive Bot). By using the bot, you agree to the terms of this Privacy Policy.
+
+2. Data We Collect
+
+- User Messages: We may process messages only when using bot commands.
+- User IDs & Server IDs: For personalization and bot functionality.
+- Bot Usage Data: Includes command usage statistics to improve our services.
+- No Sensitive Data: We do not collect personal information like passwords, emails, or billing details.
+
+3. How We Use Your Data
+
+- To respond to your bot commands and provide motivational content.
+- To improve and enhance the bot’s functionality.
+- To monitor performance and troubleshoot issues.
+- We do not sell or share your data with third parties.
+
+A4. Data Storage & Security
+
+- We store minimal data and only as long as necessary.
+- We use secure encryption and best practices to protect stored data.
+- If you wish to delete your data, you may contact us at [Your Contact Email] or use the appropriate bot command.
+
+5. Third-Party Services
+
+- Our bot may use external APIs (e.g., quote generators, AI services) to provide content.
+- These services have their own privacy policies, which we do not control.
+
+6. User Rights & Data Removal
+
+- You may request to remove your data by contacting us.
+- You can remove the bot from your server anytime, which stops data collection.
+- We comply with Discord’s policies and GDPR/CCPA regulations where applicable.
+
+7. Changes to This Policy
+
+- We may update this Privacy Policy as needed.
+- Changes will be posted here, and continued use of the bot means acceptance.
+
+8. Contact Us
+For any questions, reach out to [Your Email or Discord Server Link].
+
+By using Positive Bot, you acknowledge and agree to this Privacy Policy.*
+
