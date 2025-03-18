@@ -135,13 +135,6 @@ thank_you_words = [
     "thank you very much", "thanks a bunch", "thanks a lot", "deeply grateful", 
     "thank ya", "thankies", "much thanks", "endless thanks", "so thankful", 
     "thank you kindly", "thanks loads", "big appreciation",
-    "Thank You", "THANK YOU", "THANKS", "THX", "TY", "TQ", "THANK U", 
-    "THANKYOU", "THANK-YOU", "THANX", "APPRECIATE IT", 
-    "MANY THANKS", "MUCH OBLIGED", "GRATEFUL", "BIG THANKS", "CHEERS",
-    "THANK U SO MUCH", "THX A LOT", "THANKS A TON", "THANKS A MILLION",
-    "THANK YOU VERY MUCH", "THANKS A BUNCH", "THANKS A LOT", "DEEPLY GRATEFUL", 
-    "THANK YA", "THANKIES", "MUCH THANKS", "ENDLESS THANKS", "SO THANKFUL", 
-    "THANK YOU KINDLY", "THANKS LOADS", "BIG APPRECIATION"
 ]
 
 
@@ -223,7 +216,7 @@ async def on_message(message):
     if any(word in msg for word in sad_words):
         await message.channel.send(random.choice(starter_encouragements))
         
-    if any(word in msg for word in thank_you_words):
+    if any(word in msg.lower() for word in thank_you_words):
         await message.channel.send(random.choice(thank_you_replies))
 
 # keep_alive()
